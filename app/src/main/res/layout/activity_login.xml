@@ -51,7 +51,7 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/correo"
-        app:startIconDrawable="@drawable/ic_email_foreground" >
+        app:startIconDrawable="@drawable/ic_password_foreground" >
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/contra"
